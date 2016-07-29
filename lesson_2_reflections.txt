@@ -1,2 +1,8 @@
 How is the staging area different from the working directory and the repository? What value do you think it offers?
     Staging the files before a commit. More control of commits.
+
+How do the diagrams help you visualize the branch structure?
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
